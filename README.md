@@ -21,12 +21,12 @@
 </ol>
 <h2>In Command Prommpt:</h2>
 <ol>
-  <li><b>Enter this command to run and Download the script: <br> setup /download config.xml</b>b></li>
+  <li><b>Enter this First command to run and Download the script: <br> setup /download config.xml</b></li>
   <p><strong>Open Task Manager and in the Performance Tab under WiFi, u will see youe network spike mean it working.</strong></p>
   <p><strong>To tell is done your network graph will go all the way down <br>* Make Sure you are not downloading others things in the background</strong></p>
-  <li><b>Enter this command to configure the scripts to Office: setup /configure config.xml</b></li>
+  <li><b>Enter this Second command to configure the scripts to Office: setup /configure config.xml</b></li>
   <p><strong>Coffee Time! Let Office install. Try not to use your computer in the mean time if can.</strong></p>
-  <p>Once Office is Installed. Run this script below:</p>
+  <p>Once Office is Installed. Run this Third command below:</p>
   <li><b>cd C:\Program Files\Microsoft Office\Office16
   cscript ospp.vbs /sethst:kms.03k.org</br>
   cscript ospp.vbs /act
