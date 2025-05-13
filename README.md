@@ -1,5 +1,5 @@
 <h1 style="color:blue;" align="center" >Microsft Project Professional 2024 Installtion Guide.</h1>
-<h3 align="center">For only School Course uses only as they dont give us but it tested in the test lol!</h3>
+<h3 align="center">For only School Course use only as they dont give us but it tested in the test lol!</h3>
 <h2>Step 1: Downloading the file:</h2>
 <p>Click on the Green button <Code> Download as .zip or clone repo it to your local decive location using the git clone link.</p>
 <h2>Step 2: Unzip the folder:</h2>
@@ -41,7 +41,9 @@
   <li>Disable any Custom DNS been used</li>
   <li>Restsrt your machine</li>
   <li>Using Geek uninstaller to fully uninstall Office and any remainding files. Free Version works fine.
-https://geekuninstaller.com/download</li>
+https://geekuninstaller.com/download
+Once fully uninstalled, Try again downloading it.
+</li>
 </ul>
 
 <p><b>NYP Student&copy; 2025</b></p>
