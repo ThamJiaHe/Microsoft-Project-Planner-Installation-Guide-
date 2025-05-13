@@ -37,7 +37,7 @@
 <h3><strong>If u cannot activate, Solution to resolve it.</strong></h3>
 <ul>
   <li>Connect to Personal Hotspot</li>
-  <li>Disable Firewall just for the installtion only.</li>
+  <li>Disable Firewall just for this installtion only.</li>
   <li>Disable any Custom DNS been used</li>
   <li>Restsrt your machine</li>
 </ul>
